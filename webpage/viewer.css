@@ -42,11 +42,11 @@ li {
 }
 
 .mp3item {
-	list-style-image: url(http://www.cs.washington.edu/education/courses/cse190m/09sp/labs/3-music/mp3icon.gif);
+	list-style-image: url(./icon/mp3icon.gif);
 }
 
 .playlistitem {
-	list-style-image: url(http://www.cs.washington.edu/education/courses/cse190m/09sp/labs/3-music/playlisticon.gif);
+	list-style-image: url(./icon/playlisticon.gif);
 }
 
 #return {
